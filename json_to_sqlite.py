@@ -6,9 +6,11 @@ def json_to_sqlite():
     """Convert JSON files from result/ directory into SQLite database."""
     
     # Define paths
-    result_dir = Path("./DB")
-    db_path = result_dir / "confirmation.db"
-    
+    json_dir = Path("./result")      # or "./result" if that is your real folder
+    db_dir = Path("./DB")
+    db_path = db_dir / "confirmation.db"
+
+
     # Create or connect to SQLite database
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
@@ -31,7 +33,7 @@ def json_to_sqlite():
     """)
     
     # Process all JSON files in result directory
-    json_files = list(result_dir.glob("*.json"))
+    json_files = list(json_dir.glob("*.json"))
     
     if not json_files:
         print("No JSON files found in result directory.")

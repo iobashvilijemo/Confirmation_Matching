@@ -7,7 +7,7 @@ def load_wss_data_to_db():
     
     # Define paths
     wss_file = Path(r"C:\Users\user\Desktop\confirmationg matching testing\WSS_Data.xlsx")
-    db_path = Path(r"C:\Users\user\Desktop\confirmationg matching testing\DB\confirmation_DB.db")
+    db_path = Path(r"C:\Users\user\Desktop\confirmationg matching testing\DB\confirmation.db")
     
     # Check if files exist
     if not wss_file.exists():

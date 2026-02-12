@@ -1,3 +1,3 @@
-PyMuPDF==1.24.8
+fitz==0.0.1.dev2
 ollama==0.6.1
 pandas==3.0.0
