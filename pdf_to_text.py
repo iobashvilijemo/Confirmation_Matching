@@ -17,7 +17,7 @@ def extract_text_from_pdfs(input_folder):
     try:
         for file in files:
             file_path = os.path.join(input_folder, file)
-            msg = fitz.open(file_path)
+            msg = fitz.open(file_path) # type: ignore
             documents.append(msg)
     except Exception as e:
         print(f"Error opening files: {e}")
