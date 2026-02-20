@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000149
+creation_date: 2025-11-12
+currency: USD
+settlement_amount: 49776228.36
+buy_sell: BUY
+isin: NL349697241I6
+settlement_date: 2025-11-18
+ssi_begin
+Our Settlement Instructions GOLDMAN SACHS, A/C 7072468203
+BENEFICIARY: ALPHA ASSET MGMT
+SWIFT: DGKVND23H4E
+REF: AOYA5QUO3N
+ssi_end

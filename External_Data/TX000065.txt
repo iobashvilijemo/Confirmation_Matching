@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000059
+creation_date: 2023-10-09
+currency: USD
+settlement_amount: 10892210.22
+buy_sell: SELL
+isin: DE35731691606
+settlement_date: 2023-10-14
+ssi_begin
+Our Settlement Instructions DEUTSCHE BANK, A/C 3081671291
+BENEFICIARY: ACME HOLDINGS
+SWIFT: BCDQTG7U8D3
+REF: 9KMEL4M6AY
+ssi_end

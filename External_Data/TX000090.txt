@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000084
+creation_date: 2025-07-10
+currency: EUR
+settlement_amount: 40960058.39
+buy_sell: BUY
+isin: CH89675635276
+settlement_date: 2025-07-17
+ssi_begin
+Our Settlement Instructions BARCLAYS, A/C 8480717150
+BENEFICIARY: OMEGA FUNDS
+SWIFT: QKZVQJM8B7J
+REF: R4SEGCSKF8
+ssi_end

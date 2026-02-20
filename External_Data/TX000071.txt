@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000065
+creation_date: 2025-03-05
+currency: EUR
+settlement_amount: 37107862.99
+buy_sell: SELL
+isin: ES607007576V0
+settlement_date: 2025-03-10
+ssi_begin
+PSET ABCD11
+PARTY: ORION PARTNERS
+SWIFT PXJNCIQ33MY
+ACC 2292225463
+INSTR GV6LNT7IK5
+ssi_end

@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000016
+creation_date: 2025-07-31
+currency: USD
+settlement_amount: 10447691.49
+buy_sell: BUY
+isin: ES800384441Y4
+settlement_date: 2025-08-07
+ssi_begin
+HSBC
+NYC
+IBAN ES43ZEPT33497439723430
+BENEFICIARY ALPHA ASSET MGMT
+SWIFT HJALKNEVWT3
+REF CNN7436KTK
+ssi_end

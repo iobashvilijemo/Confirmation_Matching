@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000133
+creation_date: 2025-09-04
+currency: EUR
+settlement_amount: 35112967.81
+buy_sell: SELL
+isin: US673245867B9
+settlement_date: 2025-09-11
+ssi_begin
+GOLDMAN SACHS
+CUST
+A/C 4974268106
+FRANKFURT
+/ER/8168
+CLIENT
+/ER/3080
+ssi_end

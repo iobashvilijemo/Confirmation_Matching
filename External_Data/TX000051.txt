@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000045
+creation_date: 2023-11-25
+currency: USD
+settlement_amount: 30107325.08
+buy_sell: SELL
+isin: FR801418089J4
+settlement_date: 2023-11-27
+ssi_begin
+Our Settlement Instructions HSBC, A/C 5144618227
+BENEFICIARY: OMEGA FUNDS
+SWIFT: SWRXTDBB1KO
+REF: LB794ACQ6G
+ssi_end

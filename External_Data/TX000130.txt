@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000124
+creation_date: 2023-11-25
+currency: EUR
+settlement_amount: 6193825.67
+buy_sell: BUY
+isin: SE40866099027
+settlement_date: 2023-11-25
+ssi_begin
+Stream A/c 5981519999 Our Beneficiary Swift Code BKRJXW26BI5
+BENEFICIARY: NOVA BANK
+PSET XXXX22
+REFERENCE 8UGTB4J3KY
+ssi_end

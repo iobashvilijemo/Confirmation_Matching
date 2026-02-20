@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000142
+creation_date: 2023-05-08
+currency: USD
+settlement_amount: 10557401.47
+buy_sell: SELL
+isin: FR616915182O9
+settlement_date: 2023-05-12
+ssi_begin
+Our Settlement Instructions UBS, A/C 757620860
+BENEFICIARY: ALPHA ASSET MGMT
+SWIFT: VMKZVUE5EXZ
+REF: 6JRV34MPAB
+ssi_end

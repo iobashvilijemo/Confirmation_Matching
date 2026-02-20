@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000080
+creation_date: 2025-03-31
+currency: USD
+settlement_amount: 34264026.16
+buy_sell: SELL
+isin: GB580804994M4
+settlement_date: 2025-04-05
+ssi_begin
+GOLDMAN SACHS
+CUST
+A/C 3750512489
+TORONTO
+/ER/4252
+CLIENT
+/ER/8374
+ssi_end

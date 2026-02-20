@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000113
+creation_date: 2024-12-27
+currency: USD
+settlement_amount: 18229133.04
+buy_sell: BUY
+isin: FR759739675O9
+settlement_date: 2025-01-01
+ssi_begin
+HSBC
+CUST
+A/C 6672442877
+OSLO
+/ER/1001
+CLIENT
+/ER/6847
+ssi_end

@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000044
+creation_date: 2024-04-05
+currency: EUR
+settlement_amount: 21207352.84
+buy_sell: SELL
+isin: US72943726651
+settlement_date: 2024-04-12
+ssi_begin
+BANK OF NEW YORK
+CUST
+A/C 7258520613
+SYDNEY
+/ER/2749
+CLIENT
+/ER/8037
+ssi_end

@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000145
+creation_date: 2024-04-26
+currency: USD
+settlement_amount: 44839653.86
+buy_sell: SELL
+isin: SE576516986Q7
+settlement_date: 2024-05-02
+ssi_begin
+Our Settlement Instructions HSBC, A/C 5965607226
+BENEFICIARY: BETA CAPITAL
+SWIFT: HYYPTEU1MCO
+REF: OOT8W2RDEO
+ssi_end

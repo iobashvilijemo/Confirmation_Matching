@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000092
+creation_date: 2023-09-02
+currency: USD
+settlement_amount: 80995.08
+buy_sell: SELL
+isin: BE41710697559
+settlement_date: 2023-09-09
+ssi_begin
+JPMORGAN
+CUST
+A/C 468688006
+TORONTO
+/ER/1687
+CLIENT
+/ER/4040
+ssi_end

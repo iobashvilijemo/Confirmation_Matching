@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000121
+creation_date: 2026-02-05
+currency: USD
+settlement_amount: 40880903.38
+buy_sell: BUY
+isin: NO03959085720
+settlement_date: 2026-02-10
+ssi_begin
+Our Settlement Instructions GOLDMAN SACHS, A/C 8101318871
+BENEFICIARY: DELTA SECURITIES
+SWIFT: MTDQRO1F7B1
+REF: YX44YAH81P
+ssi_end

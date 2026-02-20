@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000134
+creation_date: 2023-03-22
+currency: EUR
+settlement_amount: 44054362.12
+buy_sell: SELL
+isin: JP518936413D3
+settlement_date: 2023-03-26
+ssi_begin
+JPMORGAN
+CUST
+A/C 9881345124
+PARIS
+/ER/7318
+CLIENT
+/ER/5170
+ssi_end

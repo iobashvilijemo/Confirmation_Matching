@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000049
+creation_date: 2023-07-11
+currency: EUR
+settlement_amount: 28696723.75
+buy_sell: SELL
+isin: IE08106866670
+settlement_date: 2023-07-15
+ssi_begin
+Our Settlement Instructions JPMORGAN, A/C 5749575963
+BENEFICIARY: ORION PARTNERS
+SWIFT: MEPDZE2G2DC
+REF: DL9WZDR7TJ
+ssi_end

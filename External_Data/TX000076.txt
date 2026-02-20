@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000070
+creation_date: 2023-08-16
+currency: EUR
+settlement_amount: 44589876.30
+buy_sell: SELL
+isin: IT72125131210
+settlement_date: 2023-08-17
+ssi_begin
+HSBC
+AMSTERDAM
+IBAN IT24OJVO25852667297117
+BENEFICIARY ACME HOLDINGS
+SWIFT ZQYUPXMN1T2
+REF LIGBY6OZYI
+ssi_end

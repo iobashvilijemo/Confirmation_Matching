@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000036
+creation_date: 2024-02-12
+currency: EUR
+settlement_amount: 19724198.81
+buy_sell: SELL
+isin: JP989325321I6
+settlement_date: 2024-02-13
+ssi_begin
+JPMORGAN
+CUST
+A/C 621389523
+BRUSSELS
+/ER/5544
+CLIENT
+/ER/6460
+ssi_end

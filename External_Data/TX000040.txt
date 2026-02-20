@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000034
+creation_date: 2024-09-26
+currency: EUR
+settlement_amount: 24124001.71
+buy_sell: SELL
+isin: BE058530268Q0
+settlement_date: 2024-09-27
+ssi_begin
+PSET XXXX22
+PARTY: SIGMA TRADING
+SWIFT OQDNALXJDIS
+ACC 6763086442
+INSTR M45CXNWAU9
+ssi_end

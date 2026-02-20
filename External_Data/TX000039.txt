@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000033
+creation_date: 2024-02-19
+currency: EUR
+settlement_amount: 6858907.67
+buy_sell: SELL
+isin: IT85684943328
+settlement_date: 2024-02-26
+ssi_begin
+BNP PARIBAS
+CUST
+A/C 8668352782
+TOKYO
+/ER/8807
+CLIENT
+/ER/1972
+ssi_end

@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000003
+creation_date: 2025-10-19
+currency: EUR
+settlement_amount: 30155154.64
+buy_sell: SELL
+isin: CH57268419931
+settlement_date: 2025-10-19
+ssi_begin
+BARCLAYS
+CUST
+A/C 7495390017
+SYDNEY
+/ER/1412
+CLIENT
+/ER/8166
+ssi_end

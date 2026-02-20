@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000011
+creation_date: 2025-03-30
+currency: USD
+settlement_amount: 41735534.73
+buy_sell: SELL
+isin: JP82650545798
+settlement_date: 2025-04-02
+ssi_begin
+PSET XXXX22
+PARTY: DELTA SECURITIES
+SWIFT QFDBDMJCQE7
+ACC 8676141738
+INSTR 24YZXZFNAD
+ssi_end

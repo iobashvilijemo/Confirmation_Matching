@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000104
+creation_date: 2023-09-06
+currency: EUR
+settlement_amount: 19482579.14
+buy_sell: SELL
+isin: FR02540285157
+settlement_date: 2023-09-10
+ssi_begin
+Stream A/c 9419148743 Our Beneficiary Swift Code ZUTPXUJ1V7Z
+BENEFICIARY: ALPHA ASSET MGMT
+PSET PSET12
+REFERENCE KMP0VHTKU2
+ssi_end

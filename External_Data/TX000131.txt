@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000125
+creation_date: 2025-06-05
+currency: EUR
+settlement_amount: 46228504.45
+buy_sell: SELL
+isin: IT220090534D1
+settlement_date: 2025-06-12
+ssi_begin
+Our Settlement Instructions UBS, A/C 5287040365
+BENEFICIARY: ZENITH LLC
+SWIFT: HPTUTUOXD4J
+REF: PFF99ONWHJ
+ssi_end

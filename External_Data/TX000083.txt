@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000077
+creation_date: 2025-05-20
+currency: USD
+settlement_amount: 40256984.34
+buy_sell: BUY
+isin: AU402929957A0
+settlement_date: 2025-05-25
+ssi_begin
+GOLDMAN SACHS
+CUST
+A/C 3224543793
+LONDON
+/ER/7797
+CLIENT
+/ER/6483
+ssi_end

@@ -42,7 +42,8 @@ def load_wss_data_to_db(
         raise FileNotFoundError(f"Database file not found: {db_path}")
 
     print(f"Reading {wss_file}...")
-    df = pd.read_excel(wss_file)
+    # Excel row 1 is the header; start data import from row 7.
+    df = pd.read_excel(wss_file, skiprows=range(1, 6))
     df.columns = [str(col).strip() for col in df.columns]
     df = df.rename(columns=COLUMN_ALIASES)
     df = _normalize_date_columns(df)

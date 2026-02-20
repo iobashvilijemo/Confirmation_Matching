@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000039
+creation_date: 2025-07-31
+currency: EUR
+settlement_amount: 4454776.64
+buy_sell: SELL
+isin: GB38629502938
+settlement_date: 2025-08-04
+ssi_begin
+Stream A/c 7605671349 Our Beneficiary Swift Code LVLQWTXN8I1
+BENEFICIARY: OMEGA FUNDS
+PSET EFGH55
+REFERENCE JNTQ8MG48Y
+ssi_end

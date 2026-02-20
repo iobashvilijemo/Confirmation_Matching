@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000097
+creation_date: 2025-08-31
+currency: EUR
+settlement_amount: 40857569.74
+buy_sell: BUY
+isin: IT952237349R5
+settlement_date: 2025-09-02
+ssi_begin
+Stream A/c 2532386628 Our Beneficiary Swift Code QLVHKOK7BE1
+BENEFICIARY: DELTA SECURITIES
+PSET PSET12
+REFERENCE W690VK5DYA
+ssi_end

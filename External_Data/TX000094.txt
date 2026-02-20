@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000088
+creation_date: 2023-02-03
+currency: USD
+settlement_amount: 41277370.93
+buy_sell: BUY
+isin: NO180037206W0
+settlement_date: 2023-02-09
+ssi_begin
+Our Settlement Instructions BANK OF NEW YORK, A/C 9242610593
+BENEFICIARY: SIGMA TRADING
+SWIFT: IYSLTRAYA2Y
+REF: BEM0NZNEX4
+ssi_end

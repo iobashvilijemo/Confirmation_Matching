@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000027
+creation_date: 2023-03-04
+currency: USD
+settlement_amount: 3269271.41
+buy_sell: SELL
+isin: GB065332972Z9
+settlement_date: 2023-03-05
+ssi_begin
+UBS
+OSLO
+IBAN GB58VLFI92360849467255
+BENEFICIARY ZENITH LLC
+SWIFT PCXWQM6BVD2
+REF YZMOTOGG3L
+ssi_end

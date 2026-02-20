@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000051
+creation_date: 2024-12-24
+currency: USD
+settlement_amount: 37790995.36
+buy_sell: BUY
+isin: IT357546181R0
+settlement_date: 2024-12-27
+ssi_begin
+Our Settlement Instructions UBS, A/C 3028214552
+BENEFICIARY: ACME HOLDINGS
+SWIFT: IISZWLR7VCX
+REF: Z58Y7ALFOB
+ssi_end

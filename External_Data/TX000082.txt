@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000076
+creation_date: 2023-04-27
+currency: USD
+settlement_amount: 15096026.35
+buy_sell: SELL
+isin: IE258584120Y1
+settlement_date: 2023-05-04
+ssi_begin
+BNP PARIBAS
+OSLO
+IBAN IE26FGNI34541639496591
+BENEFICIARY BETA CAPITAL
+SWIFT PUTQPT451RL
+REF LLIX64PFBD
+ssi_end

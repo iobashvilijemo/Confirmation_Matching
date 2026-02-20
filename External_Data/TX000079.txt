@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000073
+creation_date: 2025-11-06
+currency: USD
+settlement_amount: 38191084.90
+buy_sell: BUY
+isin: ES744460547W8
+settlement_date: 2025-11-11
+ssi_begin
+Stream A/c 7252406296 Our Beneficiary Swift Code VYXGRYB72UT
+BENEFICIARY: BETA CAPITAL
+PSET QRST88
+REFERENCE 3HYVMXGO7M
+ssi_end

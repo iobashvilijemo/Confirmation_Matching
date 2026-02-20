@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000085
+creation_date: 2024-01-04
+currency: USD
+settlement_amount: 41591655.02
+buy_sell: BUY
+isin: US197024690J5
+settlement_date: 2024-01-08
+ssi_begin
+PSET FFFF33
+PARTY: SIGMA TRADING
+SWIFT CFJMHVXCDA5
+ACC 4203050432
+INSTR 1RYK0LU5T8
+ssi_end

@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000069
+creation_date: 2023-05-02
+currency: USD
+settlement_amount: 9226641.12
+buy_sell: SELL
+isin: AU803197184K4
+settlement_date: 2023-05-02
+ssi_begin
+Our Settlement Instructions BARCLAYS, A/C 3634473010
+BENEFICIARY: DELTA SECURITIES
+SWIFT: LFJFDZ5Z920
+REF: IOVBUXWE77
+ssi_end

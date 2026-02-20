@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000004
+creation_date: 2024-09-20
+currency: EUR
+settlement_amount: 46467887.79
+buy_sell: BUY
+isin: NO793635508R1
+settlement_date: 2024-09-26
+ssi_begin
+PSET MNOP77
+PARTY: ORION PARTNERS
+SWIFT LVWCNHFPX7K
+ACC 6773297417
+INSTR IOL6IQRA6P
+ssi_end

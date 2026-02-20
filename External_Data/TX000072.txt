@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000066
+creation_date: 2025-07-07
+currency: EUR
+settlement_amount: 7017311.82
+buy_sell: BUY
+isin: SE42072828397
+settlement_date: 2025-07-10
+ssi_begin
+JPMORGAN
+CUST
+A/C 8576587943
+BRUSSELS
+/ER/5226
+CLIENT
+/ER/4329
+ssi_end

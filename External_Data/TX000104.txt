@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000098
+creation_date: 2023-09-02
+currency: EUR
+settlement_amount: 35866428.67
+buy_sell: SELL
+isin: NL236544360K9
+settlement_date: 2023-09-08
+ssi_begin
+Our Settlement Instructions HSBC, A/C 705477024
+BENEFICIARY: ORION PARTNERS
+SWIFT: PINKTHMC0TW
+REF: 2TLX92B3TN
+ssi_end

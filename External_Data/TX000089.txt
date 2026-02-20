@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000083
+creation_date: 2023-04-15
+currency: USD
+settlement_amount: 22426050.60
+buy_sell: SELL
+isin: ES88397233120
+settlement_date: 2023-04-16
+ssi_begin
+Our Settlement Instructions JPMORGAN, A/C 4955116830
+BENEFICIARY: BETA CAPITAL
+SWIFT: SHSNRLM0NT7
+REF: 4EPMDM4ZVC
+ssi_end

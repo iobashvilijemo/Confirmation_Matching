@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000128
+creation_date: 2024-06-01
+currency: USD
+settlement_amount: 6357963.53
+buy_sell: BUY
+isin: ES280793404K5
+settlement_date: 2024-06-07
+ssi_begin
+Our Settlement Instructions JPMORGAN, A/C 3915085275
+BENEFICIARY: NOVA BANK
+SWIFT: GJLFSIPWA1J
+REF: RHO1EBA1TD
+ssi_end

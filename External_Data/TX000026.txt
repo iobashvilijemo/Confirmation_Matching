@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000020
+creation_date: 2025-04-13
+currency: EUR
+settlement_amount: 25700157.25
+buy_sell: BUY
+isin: CH20584825450
+settlement_date: 2025-04-15
+ssi_begin
+Stream A/c 6025352500 Our Beneficiary Swift Code EXWNFF7M0WV
+BENEFICIARY: OMEGA FUNDS
+PSET FFFF33
+REFERENCE DUER22X2RZ
+ssi_end

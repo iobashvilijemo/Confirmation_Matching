@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000102
+creation_date: 2025-11-29
+currency: EUR
+settlement_amount: 35123827.51
+buy_sell: SELL
+isin: AU904082836W4
+settlement_date: 2025-11-30
+ssi_begin
+CREDIT SUISSE
+CUST
+A/C 3139889691
+ZURICH
+/ER/8253
+CLIENT
+/ER/6624
+ssi_end

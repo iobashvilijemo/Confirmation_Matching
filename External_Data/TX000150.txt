@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000144
+creation_date: 2024-10-08
+currency: EUR
+settlement_amount: 12567840.10
+buy_sell: BUY
+isin: IE457459241C6
+settlement_date: 2024-10-08
+ssi_begin
+Stream A/c 3352505986 Our Beneficiary Swift Code HATGPOCI7UM
+BENEFICIARY: NOVA BANK
+PSET FFFF33
+REFERENCE TV3819SF19
+ssi_end

@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000043
+creation_date: 2023-05-24
+currency: USD
+settlement_amount: 3767798.53
+buy_sell: SELL
+isin: CH49286451511
+settlement_date: 2023-05-31
+ssi_begin
+CREDIT SUISSE
+CUST
+A/C 7708970792
+SYDNEY
+/ER/8283
+CLIENT
+/ER/8911
+ssi_end

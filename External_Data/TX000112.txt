@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000106
+creation_date: 2025-12-05
+currency: USD
+settlement_amount: 24312246.77
+buy_sell: SELL
+isin: BE76534585165
+settlement_date: 2025-12-11
+ssi_begin
+CITI
+FRANKFURT
+IBAN BE02UVJG89561733303478
+BENEFICIARY SIGMA TRADING
+SWIFT ZTJNWX03KYD
+REF XBN4A5HQ5M
+ssi_end

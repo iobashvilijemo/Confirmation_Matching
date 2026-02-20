@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000054
+creation_date: 2023-08-30
+currency: EUR
+settlement_amount: 40450672.80
+buy_sell: BUY
+isin: GB90258464681
+settlement_date: 2023-08-31
+ssi_begin
+Our Settlement Instructions JPMORGAN, A/C 9415087154
+BENEFICIARY: OMEGA FUNDS
+SWIFT: LLYXMS60Q3E
+REF: KD9HVV47B5
+ssi_end

@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000118
+creation_date: 2023-04-05
+currency: USD
+settlement_amount: 20391433.45
+buy_sell: SELL
+isin: NO387183792J0
+settlement_date: 2023-04-11
+ssi_begin
+GOLDMAN SACHS
+CUST
+A/C 9613090157
+MILAN
+/ER/6566
+CLIENT
+/ER/8393
+ssi_end

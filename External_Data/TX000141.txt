@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000135
+creation_date: 2024-01-25
+currency: EUR
+settlement_amount: 23344755.99
+buy_sell: BUY
+isin: JP02573150253
+settlement_date: 2024-01-27
+ssi_begin
+BNP PARIBAS
+CUST
+A/C 3525036439
+MILAN
+/ER/6662
+CLIENT
+/ER/6541
+ssi_end

@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000086
+creation_date: 2023-11-06
+currency: EUR
+settlement_amount: 20315465.83
+buy_sell: BUY
+isin: IT988687641A0
+settlement_date: 2023-11-13
+ssi_begin
+PSET PSET12
+PARTY: NOVA BANK
+SWIFT VGTMZJ6YASN
+ACC 8355554419
+INSTR MPTEZH39F3
+ssi_end

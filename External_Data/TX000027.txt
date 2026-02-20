@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000021
+creation_date: 2026-02-09
+currency: USD
+settlement_amount: 7526691.27
+buy_sell: BUY
+isin: JP300991219I9
+settlement_date: 2026-02-10
+ssi_begin
+Stream A/c 245099092 Our Beneficiary Swift Code JTFIGGQQRAV
+BENEFICIARY: ZENITH LLC
+PSET EFGH55
+REFERENCE WMRIVWT0H2
+ssi_end

@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000074
+creation_date: 2023-06-12
+currency: USD
+settlement_amount: 9675327.68
+buy_sell: BUY
+isin: DE728628904K6
+settlement_date: 2023-06-14
+ssi_begin
+Stream A/c 1120052639 Our Beneficiary Swift Code ZHEDKDSI1RT
+BENEFICIARY: DELTA SECURITIES
+PSET UVWX99
+REFERENCE DK281GPH6U
+ssi_end

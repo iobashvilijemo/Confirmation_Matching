@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000025
+creation_date: 2026-01-29
+currency: EUR
+settlement_amount: 16972952.13
+buy_sell: SELL
+isin: AU67797419843
+settlement_date: 2026-02-02
+ssi_begin
+JPMORGAN
+TOKYO
+IBAN AU68VRUI80278969771894
+BENEFICIARY OMEGA FUNDS
+SWIFT AVQWTX6G8J6
+REF APRXM9VU7K
+ssi_end

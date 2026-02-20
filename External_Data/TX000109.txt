@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000103
+creation_date: 2023-11-30
+currency: USD
+settlement_amount: 29498440.51
+buy_sell: SELL
+isin: BE830086828I3
+settlement_date: 2023-12-02
+ssi_begin
+CITI
+CUST
+A/C 7835082706
+MILAN
+/ER/9516
+CLIENT
+/ER/5263
+ssi_end

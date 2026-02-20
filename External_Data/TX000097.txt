@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000091
+creation_date: 2024-05-30
+currency: EUR
+settlement_amount: 12817498.82
+buy_sell: BUY
+isin: NL607536108V2
+settlement_date: 2024-06-03
+ssi_begin
+DEUTSCHE BANK
+CUST
+A/C 2166654311
+STOCKHOLM
+/ER/5298
+CLIENT
+/ER/4518
+ssi_end

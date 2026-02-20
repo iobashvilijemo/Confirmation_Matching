@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000127
+creation_date: 2025-02-26
+currency: USD
+settlement_amount: 14567305.36
+buy_sell: SELL
+isin: NO72523020103
+settlement_date: 2025-03-01
+ssi_begin
+Our Settlement Instructions HSBC, A/C 8479147021
+BENEFICIARY: NOVA BANK
+SWIFT: MCUCSD4YZXM
+REF: H3VGZDE7U5
+ssi_end

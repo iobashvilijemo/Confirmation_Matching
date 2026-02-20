@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000028
+creation_date: 2025-06-22
+currency: USD
+settlement_amount: 8632709.29
+buy_sell: SELL
+isin: US745863003Y3
+settlement_date: 2025-06-26
+ssi_begin
+PSET ABCD11
+PARTY: ORION PARTNERS
+SWIFT MTENWRGEDSX
+ACC 1769243862
+INSTR 9LN6JA5VH2
+ssi_end

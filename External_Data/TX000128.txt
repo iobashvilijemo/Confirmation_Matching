@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000122
+creation_date: 2024-06-21
+currency: USD
+settlement_amount: 37728149.46
+buy_sell: BUY
+isin: AU959538380Q8
+settlement_date: 2024-06-28
+ssi_begin
+Our Settlement Instructions DEUTSCHE BANK, A/C 8245220008
+BENEFICIARY: DELTA SECURITIES
+SWIFT: NLTGJH2JRW5
+REF: X7KFV9AD3E
+ssi_end

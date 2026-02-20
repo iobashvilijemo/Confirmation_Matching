@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000150
+creation_date: 2023-04-23
+currency: USD
+settlement_amount: 9167625.74
+buy_sell: SELL
+isin: CH09706430293
+settlement_date: 2023-04-27
+ssi_begin
+Stream A/c 2978989343 Our Beneficiary Swift Code NMKIDDUC72L
+BENEFICIARY: OMEGA FUNDS
+PSET XXXX22
+REFERENCE OCIPGMGTJP
+ssi_end

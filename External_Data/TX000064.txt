@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000058
+creation_date: 2025-09-17
+currency: USD
+settlement_amount: 7329452.63
+buy_sell: BUY
+isin: JP805434769G2
+settlement_date: 2025-09-24
+ssi_begin
+Our Settlement Instructions DEUTSCHE BANK, A/C 354524783
+BENEFICIARY: BETA CAPITAL
+SWIFT: QUPGSZ1MEWR
+REF: 88T1KK2X7Z
+ssi_end

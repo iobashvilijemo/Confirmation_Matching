@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000006
+creation_date: 2024-11-06
+currency: EUR
+settlement_amount: 25756471.07
+buy_sell: SELL
+isin: IT100224715F3
+settlement_date: 2024-11-11
+ssi_begin
+PSET PSET12
+PARTY: NOVA BANK
+SWIFT NUFBHPH9NOV
+ACC 7906290185
+INSTR REFD20R8L0
+ssi_end

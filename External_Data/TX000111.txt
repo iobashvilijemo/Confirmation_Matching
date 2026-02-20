@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000105
+creation_date: 2025-05-12
+currency: EUR
+settlement_amount: 17715369.83
+buy_sell: SELL
+isin: NO711435126E9
+settlement_date: 2025-05-17
+ssi_begin
+CITI
+CUST
+A/C 5501558032
+MADRID
+/ER/2758
+CLIENT
+/ER/5989
+ssi_end

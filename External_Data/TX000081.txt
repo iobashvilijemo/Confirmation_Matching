@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000075
+creation_date: 2024-04-19
+currency: USD
+settlement_amount: 35792280.61
+buy_sell: SELL
+isin: CA774545002J2
+settlement_date: 2024-04-20
+ssi_begin
+GOLDMAN SACHS
+CUST
+A/C 871129484
+TOKYO
+/ER/7764
+CLIENT
+/ER/6088
+ssi_end

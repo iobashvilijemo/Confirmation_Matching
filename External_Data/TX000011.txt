@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000005
+creation_date: 2025-01-06
+currency: USD
+settlement_amount: 31263191.00
+buy_sell: SELL
+isin: IT486316023Q6
+settlement_date: 2025-01-09
+ssi_begin
+JPMORGAN
+CUST
+A/C 7869253933
+MADRID
+/ER/4882
+CLIENT
+/ER/9078
+ssi_end

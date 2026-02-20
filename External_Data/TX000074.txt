@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000068
+creation_date: 2023-12-19
+currency: EUR
+settlement_amount: 21436650.53
+buy_sell: SELL
+isin: CA094006800R4
+settlement_date: 2023-12-26
+ssi_begin
+Stream A/c 4456361802 Our Beneficiary Swift Code ZLFVCNKAZUN
+BENEFICIARY: BETA CAPITAL
+PSET QRST88
+REFERENCE Y33SXCVR4E
+ssi_end

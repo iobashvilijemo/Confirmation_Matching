@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000035
+creation_date: 2024-01-09
+currency: EUR
+settlement_amount: 30303508.79
+buy_sell: BUY
+isin: CA567096595J0
+settlement_date: 2024-01-13
+ssi_begin
+Stream A/c 6963024707 Our Beneficiary Swift Code KRBUTG0GAXK
+BENEFICIARY: ALPHA ASSET MGMT
+PSET ZZZZ00
+REFERENCE ICILYQJ37T
+ssi_end

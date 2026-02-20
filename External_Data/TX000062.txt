@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000056
+creation_date: 2025-04-02
+currency: USD
+settlement_amount: 4045299.89
+buy_sell: BUY
+isin: CH393214052D8
+settlement_date: 2025-04-09
+ssi_begin
+Our Settlement Instructions CREDIT SUISSE, A/C 4791295813
+BENEFICIARY: SIGMA TRADING
+SWIFT: IELVDDN6UHN
+REF: JEKU1WGSTY
+ssi_end

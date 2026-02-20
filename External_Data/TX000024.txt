@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000018
+creation_date: 2024-01-28
+currency: USD
+settlement_amount: 7443758.16
+buy_sell: BUY
+isin: GB10499355204
+settlement_date: 2024-02-04
+ssi_begin
+Our Settlement Instructions CITI, A/C 5962184606
+BENEFICIARY: ZENITH LLC
+SWIFT: ABTTHCFBYYQ
+REF: 3A3JKQQD89
+ssi_end

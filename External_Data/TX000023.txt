@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000017
+creation_date: 2024-04-20
+currency: USD
+settlement_amount: 29867361.44
+buy_sell: BUY
+isin: IT777706454E5
+settlement_date: 2024-04-20
+ssi_begin
+Stream A/c 7961149389 Our Beneficiary Swift Code CHCYFFLO7Z6
+BENEFICIARY: DELTA SECURITIES
+PSET UVWX99
+REFERENCE HOVBFTSO0P
+ssi_end

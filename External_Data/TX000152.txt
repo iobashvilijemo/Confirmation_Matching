@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000146
+creation_date: 2025-01-22
+currency: USD
+settlement_amount: 3627445.80
+buy_sell: BUY
+isin: DE945508976E8
+settlement_date: 2025-01-29
+ssi_begin
+DEUTSCHE BANK
+MILAN
+IBAN DE90NLUV39924028554642
+BENEFICIARY OMEGA FUNDS
+SWIFT OZIBZKYAGS5
+REF 9VEV4J641I
+ssi_end

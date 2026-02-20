@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000041
+creation_date: 2024-09-22
+currency: EUR
+settlement_amount: 42653823.73
+buy_sell: BUY
+isin: NO634739316L4
+settlement_date: 2024-09-28
+ssi_begin
+PSET IJKL66
+PARTY: ALPHA ASSET MGMT
+SWIFT JXYFXKA33F2
+ACC 754762232
+INSTR 7QZJ7H0D31
+ssi_end

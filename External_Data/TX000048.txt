@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000042
+creation_date: 2023-09-13
+currency: USD
+settlement_amount: 10419840.04
+buy_sell: SELL
+isin: JP687051830W1
+settlement_date: 2023-09-14
+ssi_begin
+PSET IJKL66
+PARTY: NOVA BANK
+SWIFT PVNDLTNSA01
+ACC 9923736915
+INSTR 47EAVZJB6Y
+ssi_end

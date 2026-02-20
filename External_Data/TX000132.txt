@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000126
+creation_date: 2025-10-19
+currency: EUR
+settlement_amount: 35833356.87
+buy_sell: BUY
+isin: JP837552810V4
+settlement_date: 2025-10-19
+ssi_begin
+PSET EFGH55
+PARTY: ALPHA ASSET MGMT
+SWIFT VHDKCSPJ1EL
+ACC 1508095822
+INSTR H505R16VY6
+ssi_end

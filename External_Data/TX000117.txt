@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000111
+creation_date: 2023-06-30
+currency: USD
+settlement_amount: 3696328.78
+buy_sell: BUY
+isin: NO55588700813
+settlement_date: 2023-06-30
+ssi_begin
+Our Settlement Instructions UBS, A/C 5941844733
+BENEFICIARY: SIGMA TRADING
+SWIFT: EBGLNQLG5KM
+REF: VDJTU3VGU6
+ssi_end

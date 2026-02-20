@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000078
+creation_date: 2025-12-23
+currency: EUR
+settlement_amount: 11916669.69
+buy_sell: BUY
+isin: IE13397871694
+settlement_date: 2025-12-24
+ssi_begin
+HSBC
+CUST
+A/C 360235547
+BRUSSELS
+/ER/2903
+CLIENT
+/ER/5464
+ssi_end

@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000013
+creation_date: 2023-12-05
+currency: EUR
+settlement_amount: 41646259.03
+buy_sell: BUY
+isin: DE00824162574
+settlement_date: 2023-12-06
+ssi_begin
+Our Settlement Instructions DEUTSCHE BANK, A/C 7759813668
+BENEFICIARY: ACME HOLDINGS
+SWIFT: WXXHOOOHSC8
+REF: 9RKOUQJKEV
+ssi_end

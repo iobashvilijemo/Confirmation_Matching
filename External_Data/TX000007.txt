@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000001
+creation_date: 2023-06-10
+currency: EUR
+settlement_amount: 12489371.16
+buy_sell: SELL
+isin: GB579468417V9
+settlement_date: 2023-06-12
+ssi_begin
+CREDIT SUISSE
+NYC
+IBAN GB06KEXL39744929637465
+BENEFICIARY ZENITH LLC
+SWIFT LCKKPLA1DDB
+REF U27PM2V50M
+ssi_end

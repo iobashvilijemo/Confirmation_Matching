@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000109
+creation_date: 2024-06-28
+currency: EUR
+settlement_amount: 14738416.91
+buy_sell: SELL
+isin: NL135395350W9
+settlement_date: 2024-07-04
+ssi_begin
+PSET FFFF33
+PARTY: ALPHA ASSET MGMT
+SWIFT OKGOQTX0L8Y
+ACC 4547802747
+INSTR 5UZ4KUFOQK
+ssi_end

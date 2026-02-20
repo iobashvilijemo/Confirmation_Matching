@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000132
+creation_date: 2025-05-19
+currency: EUR
+settlement_amount: 1799135.57
+buy_sell: SELL
+isin: IE587921144T9
+settlement_date: 2025-05-24
+ssi_begin
+PSET XXXX22
+PARTY: OMEGA FUNDS
+SWIFT BCZFXG9ZA26
+ACC 4496375877
+INSTR AS64J6TWBX
+ssi_end

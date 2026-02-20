@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000108
+creation_date: 2023-06-27
+currency: USD
+settlement_amount: 3790504.46
+buy_sell: BUY
+isin: US923171250R6
+settlement_date: 2023-07-03
+ssi_begin
+PSET XXXX22
+PARTY: ORION PARTNERS
+SWIFT MZYJMI5W4JE
+ACC 2493129560
+INSTR 17P2CZMNPC
+ssi_end

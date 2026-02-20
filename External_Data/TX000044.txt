@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000038
+creation_date: 2025-01-04
+currency: USD
+settlement_amount: 37783620.85
+buy_sell: BUY
+isin: NO649827173E7
+settlement_date: 2025-01-04
+ssi_begin
+Our Settlement Instructions GOLDMAN SACHS, A/C 1029699731
+BENEFICIARY: SIGMA TRADING
+SWIFT: JQWALWUR1VR
+REF: 5LOO8N4CHG
+ssi_end

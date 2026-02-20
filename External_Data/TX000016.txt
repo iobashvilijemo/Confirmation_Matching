@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000010
+creation_date: 2023-12-07
+currency: EUR
+settlement_amount: 38705463.15
+buy_sell: SELL
+isin: DE188306524L1
+settlement_date: 2023-12-11
+ssi_begin
+Stream A/c 3205412331 Our Beneficiary Swift Code WJPNQIR5DJW
+BENEFICIARY: ACME HOLDINGS
+PSET FFFF33
+REFERENCE D79N2IAG80
+ssi_end

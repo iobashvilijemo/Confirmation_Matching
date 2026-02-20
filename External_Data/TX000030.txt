@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000024
+creation_date: 2023-07-10
+currency: EUR
+settlement_amount: 40363851.43
+buy_sell: BUY
+isin: JP430835709E0
+settlement_date: 2023-07-14
+ssi_begin
+Stream A/c 3209800747 Our Beneficiary Swift Code UGCQIGCC5G6
+BENEFICIARY: SIGMA TRADING
+PSET PSET12
+REFERENCE EY4VCS1U1P
+ssi_end

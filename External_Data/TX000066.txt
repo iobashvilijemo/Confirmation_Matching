@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000060
+creation_date: 2023-05-22
+currency: EUR
+settlement_amount: 9105614.10
+buy_sell: SELL
+isin: NL738985091R3
+settlement_date: 2023-05-28
+ssi_begin
+Stream A/c 4019541601 Our Beneficiary Swift Code QWDVOTIZIPP
+BENEFICIARY: NOVA BANK
+PSET PSET12
+REFERENCE Z5X5IVXKEB
+ssi_end

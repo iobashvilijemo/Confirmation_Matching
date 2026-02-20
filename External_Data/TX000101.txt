@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000095
+creation_date: 2023-01-05
+currency: EUR
+settlement_amount: 27259841.99
+buy_sell: SELL
+isin: GB292889461C6
+settlement_date: 2023-01-06
+ssi_begin
+Stream A/c 6615114432 Our Beneficiary Swift Code NRNQHMUIHNQ
+BENEFICIARY: BETA CAPITAL
+PSET PSET12
+REFERENCE 8E8OEREJI3
+ssi_end

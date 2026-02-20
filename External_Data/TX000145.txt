@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000139
+creation_date: 2026-02-18
+currency: EUR
+settlement_amount: 13515210.59
+buy_sell: SELL
+isin: SE962228736V1
+settlement_date: 2026-02-20
+ssi_begin
+UBS
+CUST
+A/C 4096129797
+OSLO
+/ER/4728
+CLIENT
+/ER/6954
+ssi_end

@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000117
+creation_date: 2023-12-29
+currency: USD
+settlement_amount: 36946067.44
+buy_sell: BUY
+isin: CH47628918717
+settlement_date: 2024-01-02
+ssi_begin
+BANK OF NEW YORK
+CUST
+A/C 6033118055
+FRANKFURT
+/ER/3255
+CLIENT
+/ER/7428
+ssi_end

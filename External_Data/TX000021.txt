@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000015
+creation_date: 2025-04-12
+currency: EUR
+settlement_amount: 49789865.22
+buy_sell: SELL
+isin: CA141877949R4
+settlement_date: 2025-04-18
+ssi_begin
+PSET UVWX99
+PARTY: GAMMA INVESTMENTS
+SWIFT JNYWLG8H4NR
+ACC 1002305645
+INSTR 5Z9RJYJMG1
+ssi_end

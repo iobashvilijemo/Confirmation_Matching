@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000081
+creation_date: 2023-02-16
+currency: USD
+settlement_amount: 18093511.83
+buy_sell: BUY
+isin: DE970217117G0
+settlement_date: 2023-02-16
+ssi_begin
+Our Settlement Instructions CREDIT SUISSE, A/C 7599349354
+BENEFICIARY: ORION PARTNERS
+SWIFT: PTXSWGQSGTQ
+REF: RF49963ISB
+ssi_end

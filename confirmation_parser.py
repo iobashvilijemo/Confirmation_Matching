@@ -59,7 +59,7 @@ def _fetch_rows(conn: sqlite3.Connection):
 
 
 def _load_transaction_text(row_id: int, base_dir: Path = EXTERNAL_DATA_DIR) -> str | None:
-    file_path = base_dir / f"{row_id}.txt"
+    file_path = base_dir / f"TX{row_id:06d}.txt"
     if not file_path.exists():
         return None
     return file_path.read_text(encoding="utf-8")
@@ -83,7 +83,10 @@ def process_new_raw_rows(db_path: Path = DB_PATH) -> int:
             row_id = row["id"]
             transaction_text = _load_transaction_text(row_id)
             if not _has_value(transaction_text):
-                print(f"Row {row_id}: skipped (missing or empty External_Data/{row_id}.txt)")
+                print(
+                    f"Row {row_id}: skipped (missing or empty "
+                    f"External_Data/TX{row_id:06d}.txt)"
+                )
                 continue
 
             for metadata in FIELD_LLM_METADATA.values():

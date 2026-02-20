@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000026
+creation_date: 2024-10-24
+currency: EUR
+settlement_amount: 8701225.90
+buy_sell: BUY
+isin: NL686648041J8
+settlement_date: 2024-10-26
+ssi_begin
+CITI
+PARIS
+IBAN NL72ZGQJ11279223075416
+BENEFICIARY SIGMA TRADING
+SWIFT HENTPFN8H69
+REF CENRF3FDQV
+ssi_end

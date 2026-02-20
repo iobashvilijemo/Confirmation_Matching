@@ -1,0 +1,15 @@
+WSS_TRANSACTION
+transaction_id: TX000079
+creation_date: 2026-02-15
+currency: USD
+settlement_amount: 17756256.21
+buy_sell: SELL
+isin: SE18502915153
+settlement_date: 2026-02-15
+ssi_begin
+PSET PSET12
+PARTY: GAMMA INVESTMENTS
+SWIFT BUIPSXJHHFR
+ACC 1537227903
+INSTR H1H7KW6FSO
+ssi_end

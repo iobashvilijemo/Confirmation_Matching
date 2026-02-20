@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000009
+creation_date: 2025-01-07
+currency: USD
+settlement_amount: 39048132.64
+buy_sell: SELL
+isin: IT842934264Y8
+settlement_date: 2025-01-13
+ssi_begin
+BNP PARIBAS
+CUST
+A/C 3674022182
+STOCKHOLM
+/ER/7583
+CLIENT
+/ER/5659
+ssi_end

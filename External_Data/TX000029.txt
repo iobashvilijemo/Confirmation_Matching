@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000023
+creation_date: 2024-02-22
+currency: USD
+settlement_amount: 11225632.23
+buy_sell: SELL
+isin: NO627123228Q4
+settlement_date: 2024-02-28
+ssi_begin
+Stream A/c 6833629220 Our Beneficiary Swift Code KNJQDVP15G1
+BENEFICIARY: GAMMA INVESTMENTS
+PSET UVWX99
+REFERENCE UQDDK6IW7Q
+ssi_end

@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000123
+creation_date: 2025-02-05
+currency: EUR
+settlement_amount: 3990629.59
+buy_sell: BUY
+isin: IT197004906Z7
+settlement_date: 2025-02-05
+ssi_begin
+BNP PARIBAS
+CUST
+A/C 9435587432
+TOKYO
+/ER/5115
+CLIENT
+/ER/9549
+ssi_end

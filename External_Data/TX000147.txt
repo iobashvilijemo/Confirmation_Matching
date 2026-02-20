@@ -1,0 +1,14 @@
+WSS_TRANSACTION
+transaction_id: TX000141
+creation_date: 2025-03-28
+currency: USD
+settlement_amount: 27221773.24
+buy_sell: SELL
+isin: US212288510E4
+settlement_date: 2025-03-28
+ssi_begin
+Stream A/c 2456187934 Our Beneficiary Swift Code FUBMLQ8OLTM
+BENEFICIARY: DELTA SECURITIES
+PSET IJKL66
+REFERENCE JV2WPPEZK7
+ssi_end

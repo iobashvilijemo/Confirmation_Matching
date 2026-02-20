@@ -1,0 +1,16 @@
+WSS_TRANSACTION
+transaction_id: TX000096
+creation_date: 2024-08-11
+currency: USD
+settlement_amount: 44707182.40
+buy_sell: BUY
+isin: SE11647595669
+settlement_date: 2024-08-18
+ssi_begin
+UBS
+OSLO
+IBAN SE29PFOL21691652350733
+BENEFICIARY ZENITH LLC
+SWIFT NATPEFL665F
+REF KCG20ZZ1PL
+ssi_end

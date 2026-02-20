@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000008
+creation_date: 2024-08-28
+currency: USD
+settlement_amount: 18367886.88
+buy_sell: SELL
+isin: BE55034433592
+settlement_date: 2024-09-03
+ssi_begin
+CREDIT SUISSE
+CUST
+A/C 7496213995
+FRANKFURT
+/ER/8378
+CLIENT
+/ER/6171
+ssi_end

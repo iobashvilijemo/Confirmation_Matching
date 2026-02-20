@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000047
+creation_date: 2025-11-19
+currency: EUR
+settlement_amount: 26795939.47
+buy_sell: SELL
+isin: NO428477627L2
+settlement_date: 2025-11-26
+ssi_begin
+CITI
+CUST
+A/C 7287732670
+OSLO
+/ER/3225
+CLIENT
+/ER/1163
+ssi_end

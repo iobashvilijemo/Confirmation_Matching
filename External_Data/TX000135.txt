@@ -1,0 +1,17 @@
+WSS_TRANSACTION
+transaction_id: TX000129
+creation_date: 2024-03-16
+currency: EUR
+settlement_amount: 32824093.24
+buy_sell: BUY
+isin: NL140213033D3
+settlement_date: 2024-03-17
+ssi_begin
+GOLDMAN SACHS
+CUST
+A/C 3627705794
+BRUSSELS
+/ER/5783
+CLIENT
+/ER/6088
+ssi_end
