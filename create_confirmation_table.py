@@ -15,18 +15,23 @@ def create_confirmation_table(db_path: Path = Path("DB") / "confirmation.db") ->
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             currency TEXT,
             currency_LLM TEXT,
+            currency_validation TEXT,
             settlement_amount REAL,
             settlement_amount_LLM TEXT,
+            settlement_amount_validation TEXT,
             buy_sell TEXT,
             buy_sell_LLM TEXT,
+            buy_sell_validation TEXT,
             isin TEXT,
             isin_LLM TEXT,
+            isin_validation TEXT,
             settlement_date TEXT,
             settlement_date_LLM TEXT,
+            settlement_date_validation TEXT,
             SSI TEXT,
             SSI_LLM TEXT,
-            creation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-            creation_date_LLM TEXT
+            SSI_validation TEXT,
+            creation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
         )
         """
     )
